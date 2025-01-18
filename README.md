@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI-Powered Interview Application<br>👯 I’m looking to collaborate on Some interesting Project<br>🤝 I’m looking for help with Backend <br>🌱 I’m currently learning More About Backend Technology<br>⚡ Fun fact: I Love to Learn New Thech
+🔭 I’m currently working on an AI-Powered Interview Application<br>👯 I’m looking to collaborate on Some interesting Project<br>🤝 I’m looking for help with Backend <br>🌱 I’m currently learning More About Backend Technology<br>⚡ Fun Fact: The first computer "bug" was an actual bug! In 1947, Grace Hopper found a moth causing issues in the Harvard Mark II computer. She taped it in her logbook, creating the terms "bug" and "debugging" in programming! 🐛
 
 
 ## 🌐 Socials:
